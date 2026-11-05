@@ -26,8 +26,6 @@ exploring unfamiliar tools, and continuously learning.
 
 ---
 
----
-
 <div align="center">
 
 *The most interesting part of engineering begins when I don't know how to do something yet.*
