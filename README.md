@@ -1,28 +1,28 @@
 
 <div align="center">
 
-# Hey, I'm Iman! 👋
 
-### 💻 Full-Stack Developer | Engineering Student
+# Hi, I'm Iman 👋
 
-🌍 Based in Morocco
+**Full-Stack Developer | Digital Transformation Engineering Student**
 
-*Curious about technology, people, and the little problems worth solving.*
+I'm passionate about solving real-world problems through technology,
+exploring unfamiliar tools, and continuously learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iman-yakhou-436b6528a/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imanyakhou0@gmail.com)
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,ts,react,nextjs,postgres,docker,linux,git&theme=dark" />
+</p>
+
+**Interests:** Full-Stack Development · Cloud Computing · AI · DevOps
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/iman-yakhou-436b6528a/) ·
+[Email](mailto:imanyakhou0@gmail.com)
 
 </div>
-
----
-
-### 🌱 A Little About Me
-
-- 🎓 Digital Transformation Engineering student at ENSA Beni Mellal.
-- 🚀 I enjoy turning everyday problems into useful solutions.
-- 🧠 Always learning something new, especially when it's unfamiliar.
-- ☁️ Interested in full-stack engineering, cloud computing, AI, and DevOps.
-- 🌏 I love exploring different cultures, languages, and perspectives.
 
 ---
 
