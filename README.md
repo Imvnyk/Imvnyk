@@ -4,7 +4,7 @@
 
 # Hi, I'm Iman 👋
 
-**Full-Stack Developer | Digital Transformation Engineering Student**
+**Digital Transformation Engineering Student |  Full-Stack Developer**
 
 I'm passionate about solving real-world problems through technology,
 exploring unfamiliar tools, and continuously learning.
